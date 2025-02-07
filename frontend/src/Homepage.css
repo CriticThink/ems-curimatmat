@@ -1,0 +1,126 @@
+body {
+  background: linear-gradient(to bottom, #3f054d, #1d1f27);
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+.app-container {
+  padding: 20px;
+}
+
+.navbar {
+  width: 100%;
+  padding: 15px;
+  background-color: #2a2d34;
+  color: white;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.custom-add-btn {
+  background-color: #28a745;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.custom-add-btn:hover {
+  background-color: #218838;
+}
+
+.search-bar {
+  width: 250px;
+}
+
+.custom-table thead {
+  background-color: #004466;
+  color: white;
+}
+
+.custom-table th {
+  padding: 15px;
+  font-size: 16px;
+}
+
+.custom-table {
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.custom-table thead {
+  color: white;
+  font-weight: bold;
+}
+
+.custom-table th {
+  padding: 15px;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+
+.custom-table th,
+.custom-table td {
+  padding: 12px;
+  text-align: left;
+}
+
+.custom-table tbody tr:hover {
+  background-color: #e6e6e6;
+}
+
+.btn-primary {
+  background-color: #0153b8;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #708aa3;
+}
+
+.btn-danger {
+  background-color: #a33b3b;
+  border: none;
+}
+
+.btn-danger:hover {
+  background-color: #c85050;
+}
+
+.me-2 {
+  margin-right: 10px;
+}
+
+.modal-content {
+  border-radius: 10px; 
+  padding: 20px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  border: none;
+}
+
+.modal-header {
+  background-color: #004466; 
+  color: white;
+  font-weight: bold;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.modal-header .btn-close {
+  color: white;
+  opacity: 1;
+}
+
+.modal-body input {
+  border-radius: 6px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+
