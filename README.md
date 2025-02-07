@@ -55,29 +55,23 @@ Node.js
 
 Yarn 
 
-Installation
+# Installation
 
 Clone the repository:
 
-git clone https://github.com/your-repo/employee-management-system.git
-cd employee-management-system
+git clone https://github.com/CriticThink/ems-curimatmat.git
+cd ems-curimatmat
 
-Install dependencies for the frontend and backend:
-
-# Frontend
+Install dependencies :
 cd frontend
-yarn install  # or npm install
-
-# Backend
-cd backend
-yarn install  # or npm install 
+yarn install  
 
 # Running the Application
 
 Start the server:
 
-cd to root folder
-nmp run dev
+cd to the root folder or ems-curimatmat
+run in terminal: yarn dev
 
 Open http://localhost:3000/ to view the app in your browser.
 
