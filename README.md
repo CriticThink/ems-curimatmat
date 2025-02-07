@@ -72,7 +72,7 @@ yarn install
 Start the server:
 
 cd to the root folder or ems-curimatmat
-run in terminal: yarn dev
+then run in terminal: yarn dev
 
 Open http://localhost:3000/ to view the app in your browser.
 
