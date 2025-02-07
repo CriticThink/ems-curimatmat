@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Jaffy",
+    "department": "IT",
+    "contact": "jaffycurimatmat@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "TESTING",
+    "department": "Marketing",
+    "contact": "testing@gmail.com"
+  }
+]
