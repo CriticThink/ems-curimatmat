@@ -64,8 +64,8 @@ git clone https://github.com/CriticThink/ems-curimatmat.git
 cd to the root folder or ems-curimatmat
 
 Install dependencies :
--cd frontend
--yarn install  
+go to folder - cd frontend
+then in terminal input: yarn install  
 
 # Running the Application
 
